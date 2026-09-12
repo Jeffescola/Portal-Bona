@@ -212,7 +212,7 @@ footer {
   margin-top: 40px;
 }
 /* Estilização da caixa de inserção (Input) */
-.input-customizado {
+.Matrículas {
   /* Tamanho e Espaçamento */
   width: 100%;
   padding: 12px 16px;
@@ -235,14 +235,14 @@ footer {
 }
 
 /* Estado de Foco (Quando o usuário clica para digitar) */
-.input-customizado:focus {
+.Matrículas:focus {
   background-color: #ffffff;
   border-color: #0066cc;
   box-shadow: 0 0 8px rgba(0, 102, 204, 0.2);
 }
 
 /* Estilização do texto de ajuda (Placeholder) */
-.input-customizado::placeholder {
+.Matrículas::placeholder {
   color: #a0a0a0;
   opacity: 1;
 }
